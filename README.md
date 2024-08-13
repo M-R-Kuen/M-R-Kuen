@@ -13,5 +13,6 @@ From graphic and web design to progressing into UX/UI, my journey has always bee
 
 **Let's Connect** 🤝<br/>
 LinkedIn: https://www.linkedin.com/in/rosario-kuen/ <br/>
+Behance: https://www.behance.net/rosie_meets_design <br/>
 Portfolio: [in progress] <br/>
 I'm always open to learning new technologies and collaborating on exciting projects!
