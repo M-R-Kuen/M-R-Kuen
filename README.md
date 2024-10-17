@@ -1,7 +1,7 @@
 # Hi, I'm Rosie 🌏  
 ## *Multi-Skilled Designer | Front-End Developer*
 
-<br/> I'm a passionate designer with a diverse background in Architectural Design, UX/UI Design, and Graphic Design.<br/> Currently, I'm expanding my expertise into Front-End Development through an intensive bootcamp and self-directed learning.
+<br/> I'm a passionate designer with a diverse background in Architectural Design, UX/UI Design, and Graphic Design.<br/> Currently, I'm expanding my expertise into Front-End Development.
 
 **What I Do** ✨ <br/>
 Graphic Design: Creating compelling visuals that communicate effectively.<br/>
